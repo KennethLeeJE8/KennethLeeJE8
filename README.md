@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Kenneth 👋
+
+I'm a student looking to get into tech, I am profficient in Python, SQL and 
 
 <!--
 **KennethLeeJE8/KennethLeeJE8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
