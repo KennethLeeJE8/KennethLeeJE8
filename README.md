@@ -4,7 +4,9 @@ I'm a student looking to get into tech, I am proficient in Python, SQL and
 
 ## 📫 How to reach me
 Personal Website: https://kennethleeje.com
+
 LinkedIn: https://www.linkedin.com/in/kenneth-lee-41188b175/
+
 Kaggle: https://www.kaggle.com/kennethleeje8/code
 
 <!--
