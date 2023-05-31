@@ -1,6 +1,6 @@
 ### Hi, I'm Kenneth 👋
 
-I'm a student looking to get into tech, I am proficient in Python, SQL and 
+I'm a Data 
 
 ## 📫 How to reach me
 Personal Website: https://kennethleeje.com
