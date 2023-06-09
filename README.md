@@ -1,6 +1,6 @@
 ### Hi, I'm Kenneth 👋
 
-I'm a Data 
+I'm a Data Analyst/Engineer. 
 
 ## 📫 How to reach me
 Personal Website: https://kennethleeje.com
